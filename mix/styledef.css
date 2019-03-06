@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.grid{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+.row{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+.col-12{
+    width: 100%;
+    float: left;
+   
+}
+.rigth{
+    width: 15%;
+    float: right;
+    
+}
+.left{
+    width: 25%;
+    float: left;
+}
+.center{
+    width: 75%;
+    position: relative;
+  
+}
+.col-11{
+    width: 100%;
+    float: left;
+   
+}
+  footer {
+    
+    
+    
+    background-color: #b2866f;
+
+  
+    
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 200px;
+    text-decoration: none;
+    position: relative;
+  }
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #b2866f;
+  }
+  .img-circle {
+    width:350px;
+    height:350px;
+    border-radius:50%;
+    
+    
+   
+
+}
+th{
+    padding: 0px;
+    
+}
+.name{
+    margin-left: 67px; 
+    margin-top: 0px;
+}
+.course{
+    margin-left: 124px;
+    margin-top: 0px
+}
+.email{
+    margin-left: 117px;
+}
+.video{
+    margin-top: 10px;
+}
+.personal{
+    margin-top: 20px;
+    font-size: large;
+    letter-spacing: 0.5px;
+    
+}
+.personal h1{
+    font-size: 2em;
+}
+.small{
+    width: 447px; height: 317px;
+  }
